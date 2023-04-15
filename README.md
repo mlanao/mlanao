@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mlanao
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Online Abuse Analysis
 - 🌱 I’m currently learning Python, ML, Math/Statistics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on LLM, ML, AI, NLP
 - 📫 How to reach me - mario.a.lanao@gmail.com
 
 <!---
